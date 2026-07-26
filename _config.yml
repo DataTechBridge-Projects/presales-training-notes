@@ -1,0 +1,27 @@
+title: Pre Sales Training
+description: A practical, section-by-section field guide to pre-sales — RFx response, discovery, contracts, proposal writing, enterprise demos, partner funding programs, and AI-assisted pre-sales work.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+nav_sort: case_insensitive
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Independent, self-authored pre-sales companion notes."
+
+callouts:
+  key-term:
+    title: Key Term
+    color: green
+  important:
+    title: Important
+    color: red
+
+mermaid:
+  version: "10.9.1"

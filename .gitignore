@@ -1,0 +1,15 @@
+# Local working files — govern how this site's content was built, not part of the published site
+plan.md
+PROGRESS.md
+CONTENT_STYLE.md
+CLAUDE.md
+course.html
+data/
+
+# Jekyll / Ruby
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
