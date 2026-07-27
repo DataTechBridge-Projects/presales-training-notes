@@ -30,7 +30,7 @@ Every solid SOW needs, at minimum: a deliverables list, acceptance criteria (how
 
 ---
 
-| [&larr; Previous: MSA – Key Clauses & Real Examples](msa-key-clauses-and-real-examples) | [Next: Change Orders – Controlling Scope & Trust &rarr;](change-orders-controlling-scope-and-trust) |
+| [&larr; Previous: MSA – Key Clauses & Real Examples](02-msa-key-clauses-and-real-examples) | [Next: Change Orders – Controlling Scope & Trust &rarr;](04-change-orders-controlling-scope-and-trust) |
 |:---|---:|
 
 <!-- prevnext:end -->

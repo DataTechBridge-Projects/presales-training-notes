@@ -25,7 +25,7 @@ Confirming priority is the piece reps skip most often, because it feels like slo
 
 ---
 
-| [&larr; Previous: Discovery & Requirements Gathering](./) | [Next: The Discovery Call Framework (Pain → Impact → Value → Fit) &rarr;](the-discovery-call-framework-pain-impact-value-fit) |
+| [&larr; Previous: Discovery & Requirements Gathering](./) | [Next: The Discovery Call Framework (Pain → Impact → Value → Fit) &rarr;](02-the-discovery-call-framework-pain-impact-value-fit) |
 |:---|---:|
 
 <!-- prevnext:end -->

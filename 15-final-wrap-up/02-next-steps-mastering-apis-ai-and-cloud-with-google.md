@@ -20,7 +20,7 @@ You don't need to become an engineer to do this well. You need enough fluency to
 
 ---
 
-| [&larr; Previous: Course Summary & Final Tips](course-summary-and-final-tips) |  |
+| [&larr; Previous: Course Summary & Final Tips](01-course-summary-and-final-tips) |  |
 |:---|---:|
 
 <!-- prevnext:end -->

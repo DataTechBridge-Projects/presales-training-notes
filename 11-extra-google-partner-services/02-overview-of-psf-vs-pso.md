@@ -32,7 +32,7 @@ In practice, a well-run deal often uses both in sequence: PSF funds the proof-of
 
 ---
 
-| [&larr; Previous: Using Google-Funded Programs](using-google-funded-programs) | [Next: GCP Case Studies with PSF/PSO &rarr;](gcp-case-studies-with-psf-pso) |
+| [&larr; Previous: Using Google-Funded Programs](01-using-google-funded-programs) | [Next: GCP Case Studies with PSF/PSO &rarr;](03-gcp-case-studies-with-psf-pso) |
 |:---|---:|
 
 <!-- prevnext:end -->

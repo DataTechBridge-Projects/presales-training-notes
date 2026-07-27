@@ -20,7 +20,7 @@ None of this is theoretical. Every section pulls from patterns that show up repe
 
 ---
 
-| [&larr; Previous: Introduction to Pre-Sales](./) | [Next: Meet Your Instructor &rarr;](meet-your-instructor) |
+| [&larr; Previous: Introduction to Pre-Sales](./) | [Next: Meet Your Instructor &rarr;](02-meet-your-instructor) |
 |:---|---:|
 
 <!-- prevnext:end -->

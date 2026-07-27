@@ -52,7 +52,7 @@ Notice what Priya never did: she didn't describe a single product feature until 
 
 ---
 
-| [&larr; Previous: The Discovery Call Framework (Pain → Impact → Value → Fit)](the-discovery-call-framework-pain-impact-value-fit) | [Next: Role Play 2: Difficult Stakeholder / Executive Pushback &rarr;](role-play-2-difficult-stakeholder-executive-pushback) |
+| [&larr; Previous: The Discovery Call Framework (Pain → Impact → Value → Fit)](02-the-discovery-call-framework-pain-impact-value-fit) | [Next: Role Play 2: Difficult Stakeholder / Executive Pushback &rarr;](04-role-play-2-difficult-stakeholder-executive-pushback) |
 |:---|---:|
 
 <!-- prevnext:end -->

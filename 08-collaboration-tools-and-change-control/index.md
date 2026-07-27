@@ -13,14 +13,14 @@ A deal doesn't end when the champion says yes — it moves into a handoff betwee
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [Collaboration with Sales & Delivery](collaboration-with-sales-and-delivery) | 3:07 |
-| 2 | [Documenting and Tracking Scope Changes](documenting-and-tracking-scope-changes) | 2:21 |
+| 1 | [Collaboration with Sales & Delivery](01-collaboration-with-sales-and-delivery) | 3:07 |
+| 2 | [Documenting and Tracking Scope Changes](02-documenting-and-tracking-scope-changes) | 2:21 |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: How to Conduct a Winning Demo](../07-winning-enterprise-demos/how-to-conduct-a-winning-demo) | [Next: Collaboration with Sales & Delivery &rarr;](collaboration-with-sales-and-delivery) |
+| [&larr; Previous: How to Conduct a Winning Demo](../07-winning-enterprise-demos/01-how-to-conduct-a-winning-demo) | [Next: Collaboration with Sales & Delivery &rarr;](01-collaboration-with-sales-and-delivery) |
 |:---|---:|
 
 <!-- prevnext:end -->

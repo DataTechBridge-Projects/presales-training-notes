@@ -13,15 +13,15 @@ This section covers Google's partner-funded programs — the Partner Sales Fund 
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [Using Google-Funded Programs](using-google-funded-programs) | 1:50 |
-| 2 | [Overview of PSF vs PSO](overview-of-psf-vs-pso) | 2:04 |
-| 3 | [GCP Case Studies with PSF/PSO](gcp-case-studies-with-psf-pso) | 2:11 |
+| 1 | [Using Google-Funded Programs](01-using-google-funded-programs) | 1:50 |
+| 2 | [Overview of PSF vs PSO](02-overview-of-psf-vs-pso) | 2:04 |
+| 3 | [GCP Case Studies with PSF/PSO](03-gcp-case-studies-with-psf-pso) | 2:11 |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: AI Strategy: Costs, Benefits & Risks](../10-extra-ai-for-pre-sales/ai-strategy-costs-benefits-and-risks) | [Next: Using Google-Funded Programs &rarr;](using-google-funded-programs) |
+| [&larr; Previous: AI Strategy: Costs, Benefits & Risks](../10-extra-ai-for-pre-sales/07-ai-strategy-costs-benefits-and-risks) | [Next: Using Google-Funded Programs &rarr;](01-using-google-funded-programs) |
 |:---|---:|
 
 <!-- prevnext:end -->

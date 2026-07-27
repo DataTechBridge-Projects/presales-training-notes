@@ -31,7 +31,7 @@ Knowing which of the three you've received — sometimes buyers mislabel their o
 
 ---
 
-| [&larr; Previous: RFx Essentials (RFI / RFQ / RFP)](./) | [Next: When Customers Don’t Issue RFx &rarr;](when-customers-dont-issue-rfx) |
+| [&larr; Previous: RFx Essentials (RFI / RFQ / RFP)](./) | [Next: When Customers Don’t Issue RFx &rarr;](02-when-customers-dont-issue-rfx) |
 |:---|---:|
 
 <!-- prevnext:end -->

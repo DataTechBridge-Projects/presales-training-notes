@@ -54,7 +54,7 @@ Quick wins are usually automation opportunities with clean data and a narrow sco
 
 ---
 
-| [&larr; Previous: Where AI Creates Value: Automation, Augmentation & Differentiation](where-ai-creates-value-automation-augmentation-and-differentiation) | [Next: Extra Section: Google Partner Services &rarr;](../11-extra-google-partner-services/) |
+| [&larr; Previous: Where AI Creates Value: Automation, Augmentation & Differentiation](06-where-ai-creates-value-automation-augmentation-and-differentiation) | [Next: Extra Section: Google Partner Services &rarr;](../11-extra-google-partner-services/) |
 |:---|---:|
 
 <!-- prevnext:end -->

@@ -31,7 +31,7 @@ No estimate should go into a proposal without a **buffer** — a contingency per
 
 ---
 
-| [&larr; Previous: Scope, Deliverables, Assumptions, Risks](scope-deliverables-assumptions-risks) | [Next: Pricing Models (T&M, Fixed, Retainer, Outcome-Based) &rarr;](pricing-models-tandm-fixed-retainer-outcome-based) |
+| [&larr; Previous: Scope, Deliverables, Assumptions, Risks](02-scope-deliverables-assumptions-risks) | [Next: Pricing Models (T&M, Fixed, Retainer, Outcome-Based) &rarr;](04-pricing-models-tandm-fixed-retainer-outcome-based) |
 |:---|---:|
 
 <!-- prevnext:end -->

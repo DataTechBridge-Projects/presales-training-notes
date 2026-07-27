@@ -43,7 +43,7 @@ Many enterprise engagements don't land on a single answer — an increasingly co
 
 ---
 
-| [&larr; Previous: AI Terms Explained for Presales: LLMs, GenAI, Transformers & Agents](ai-terms-explained-for-presales-llms-genai-transformers-and-agents) | [Next: Where AI Creates Value: Automation, Augmentation & Differentiation &rarr;](where-ai-creates-value-automation-augmentation-and-differentiation) |
+| [&larr; Previous: AI Terms Explained for Presales: LLMs, GenAI, Transformers & Agents](04-ai-terms-explained-for-presales-llms-genai-transformers-and-agents) | [Next: Where AI Creates Value: Automation, Augmentation & Differentiation &rarr;](06-where-ai-creates-value-automation-augmentation-and-differentiation) |
 |:---|---:|
 
 <!-- prevnext:end -->

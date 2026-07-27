@@ -142,7 +142,7 @@ A few things are easy to get wrong with this technique, and each one is more exp
 
 ---
 
-| [&larr; Previous: Using AI in Pre-Sales — Your Smartest Ally](using-ai-in-pre-sales-your-smartest-ally) | [Next: AI Project Ideation: Predictive, Generative, and Agentic AI &rarr;](ai-project-ideation-predictive-generative-and-agentic-ai) |
+| [&larr; Previous: Using AI in Pre-Sales — Your Smartest Ally](01-using-ai-in-pre-sales-your-smartest-ally) | [Next: AI Project Ideation: Predictive, Generative, and Agentic AI &rarr;](03-ai-project-ideation-predictive-generative-and-agentic-ai) |
 |:---|---:|
 
 <!-- prevnext:end -->

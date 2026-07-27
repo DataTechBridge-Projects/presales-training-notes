@@ -29,7 +29,7 @@ The pattern across every pitfall is the same: RFx evaluators are pattern-matchin
 
 ---
 
-| [&larr; Previous: How to Read and Respond](how-to-read-and-respond) | [Next: RFx Essentials — Test Your Knowledge &rarr;](rfx-essentials-test-your-knowledge) |
+| [&larr; Previous: How to Read and Respond](03-how-to-read-and-respond) | [Next: RFx Essentials — Test Your Knowledge &rarr;](05-rfx-essentials-test-your-knowledge) |
 |:---|---:|
 
 <!-- prevnext:end -->

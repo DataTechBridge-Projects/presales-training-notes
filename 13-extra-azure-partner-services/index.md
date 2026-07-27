@@ -13,13 +13,13 @@ This section covers the funding levers Microsoft makes available to partners sel
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [Azure Funding Programs Overview](azure-funding-programs-overview) | 3:42 |
+| 1 | [Azure Funding Programs Overview](01-azure-funding-programs-overview) | 3:42 |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: AWS Funding Programs Overview](../12-extra-aws-partner-services/aws-funding-programs-overview) | [Next: Azure Funding Programs Overview &rarr;](azure-funding-programs-overview) |
+| [&larr; Previous: AWS Funding Programs Overview](../12-extra-aws-partner-services/01-aws-funding-programs-overview) | [Next: Azure Funding Programs Overview &rarr;](01-azure-funding-programs-overview) |
 |:---|---:|
 
 <!-- prevnext:end -->

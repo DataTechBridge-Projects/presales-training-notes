@@ -23,7 +23,7 @@ Why it matters is simple: **deals that are won badly get delivered badly**. A pr
 
 ---
 
-| [&larr; Previous: Pre-Sales Fundamentals](./) | [Next: Pre-Sales Lifecycle and Opportunity Stages &rarr;](pre-sales-lifecycle-and-opportunity-stages) |
+| [&larr; Previous: Pre-Sales Fundamentals](./) | [Next: Pre-Sales Lifecycle and Opportunity Stages &rarr;](02-pre-sales-lifecycle-and-opportunity-stages) |
 |:---|---:|
 
 <!-- prevnext:end -->

@@ -25,7 +25,7 @@ Practically, close the loop fast: log the request within a day, send a one-parag
 
 ---
 
-| [&larr; Previous: Collaboration with Sales & Delivery](collaboration-with-sales-and-delivery) | [Next: Advanced Strategies & Customer Types &rarr;](../09-advanced-strategies-and-customer-types/) |
+| [&larr; Previous: Collaboration with Sales & Delivery](01-collaboration-with-sales-and-delivery) | [Next: Advanced Strategies & Customer Types &rarr;](../09-advanced-strategies-and-customer-types/) |
 |:---|---:|
 
 <!-- prevnext:end -->

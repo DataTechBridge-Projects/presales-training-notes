@@ -13,16 +13,16 @@ This section is where a pre-sales engagement stops being a pitch and starts bein
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [Discovery in Pre-Sales: Why It Matters](discovery-in-pre-sales-why-it-matters) | 2:16 |
-| 2 | [The Discovery Call Framework (Pain → Impact → Value → Fit)](the-discovery-call-framework-pain-impact-value-fit) | 2:55 |
-| 3 | [Discovery Call With a Client Stakeholder](discovery-call-with-a-client-stakeholder) | — |
-| 4 | [Role Play 2: Difficult Stakeholder / Executive Pushback](role-play-2-difficult-stakeholder-executive-pushback) | — |
+| 1 | [Discovery in Pre-Sales: Why It Matters](01-discovery-in-pre-sales-why-it-matters) | 2:16 |
+| 2 | [The Discovery Call Framework (Pain → Impact → Value → Fit)](02-the-discovery-call-framework-pain-impact-value-fit) | 2:55 |
+| 3 | [Discovery Call With a Client Stakeholder](03-discovery-call-with-a-client-stakeholder) | — |
+| 4 | [Role Play 2: Difficult Stakeholder / Executive Pushback](04-role-play-2-difficult-stakeholder-executive-pushback) | — |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: RFx Essentials — Test Your Knowledge](../03-rfx-essentials/rfx-essentials-test-your-knowledge) | [Next: Discovery in Pre-Sales: Why It Matters &rarr;](discovery-in-pre-sales-why-it-matters) |
+| [&larr; Previous: RFx Essentials — Test Your Knowledge](../03-rfx-essentials/05-rfx-essentials-test-your-knowledge) | [Next: Discovery in Pre-Sales: Why It Matters &rarr;](01-discovery-in-pre-sales-why-it-matters) |
 |:---|---:|
 
 <!-- prevnext:end -->

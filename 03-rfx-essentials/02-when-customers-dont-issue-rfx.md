@@ -25,7 +25,7 @@ The third move is pacing: informal deals can stall indefinitely because there's 
 
 ---
 
-| [&larr; Previous: Understanding RFI, RFQ, RFP](understanding-rfi-rfq-rfp) | [Next: How to Read and Respond &rarr;](how-to-read-and-respond) |
+| [&larr; Previous: Understanding RFI, RFQ, RFP](01-understanding-rfi-rfq-rfp) | [Next: How to Read and Respond &rarr;](03-how-to-read-and-respond) |
 |:---|---:|
 
 <!-- prevnext:end -->

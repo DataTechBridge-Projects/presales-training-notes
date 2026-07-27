@@ -38,7 +38,7 @@ These three categories aren't just a teaching tool — they map directly onto ho
 
 ---
 
-| [&larr; Previous: Enterprise LLM Selection: Frontier vs Open-Source Models](enterprise-llm-selection-frontier-vs-open-source-models) | [Next: AI Strategy: Costs, Benefits & Risks &rarr;](ai-strategy-costs-benefits-and-risks) |
+| [&larr; Previous: Enterprise LLM Selection: Frontier vs Open-Source Models](05-enterprise-llm-selection-frontier-vs-open-source-models) | [Next: AI Strategy: Costs, Benefits & Risks &rarr;](07-ai-strategy-costs-benefits-and-risks) |
 |:---|---:|
 
 <!-- prevnext:end -->

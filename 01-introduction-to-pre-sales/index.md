@@ -13,14 +13,14 @@ This opening section sets the stage before you touch a single RFx or contract: w
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [Welcome to the Course](welcome-to-the-course) | 2:20 |
-| 2 | [Meet Your Instructor](meet-your-instructor) | 0:48 |
+| 1 | [Welcome to the Course](01-welcome-to-the-course) | 2:20 |
+| 2 | [Meet Your Instructor](02-meet-your-instructor) | 0:48 |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: Home](../) | [Next: Welcome to the Course &rarr;](welcome-to-the-course) |
+| [&larr; Previous: Home](../) | [Next: Welcome to the Course &rarr;](01-welcome-to-the-course) |
 |:---|---:|
 
 <!-- prevnext:end -->

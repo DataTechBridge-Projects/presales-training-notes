@@ -31,7 +31,7 @@ None of this replaces judgment — an AI draft is a starting point you edit, not
 
 ---
 
-| [&larr; Previous: Extra Section: AI for Pre-Sales](./) | [Next: From RFP to Clickable Prototype using AI &rarr;](from-rfp-to-clickable-prototype-using-ai) |
+| [&larr; Previous: Extra Section: AI for Pre-Sales](./) | [Next: From RFP to Clickable Prototype using AI &rarr;](02-from-rfp-to-clickable-prototype-using-ai) |
 |:---|---:|
 
 <!-- prevnext:end -->

@@ -95,7 +95,7 @@ D. Deadlines are flexible as long as the content is strong
 
 ---
 
-| [&larr; Previous: Examples & Common Pitfalls](examples-and-common-pitfalls) | [Next: Discovery & Requirements Gathering &rarr;](../04-discovery-and-requirements-gathering/) |
+| [&larr; Previous: Examples & Common Pitfalls](04-examples-and-common-pitfalls) | [Next: Discovery & Requirements Gathering &rarr;](../04-discovery-and-requirements-gathering/) |
 |:---|---:|
 
 <!-- prevnext:end -->

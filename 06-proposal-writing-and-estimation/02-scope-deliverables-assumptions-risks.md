@@ -23,7 +23,7 @@ Four short sections in a proposal do more to prevent disputes than any other par
 
 ---
 
-| [&larr; Previous: Proposal Structure & TOC Walkthrough](proposal-structure-and-toc-walkthrough) | [Next: Estimation Approaches &rarr;](estimation-approaches) |
+| [&larr; Previous: Proposal Structure & TOC Walkthrough](01-proposal-structure-and-toc-walkthrough) | [Next: Estimation Approaches &rarr;](03-estimation-approaches) |
 |:---|---:|
 
 <!-- prevnext:end -->

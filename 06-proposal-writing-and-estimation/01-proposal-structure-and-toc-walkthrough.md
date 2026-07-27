@@ -23,7 +23,7 @@ Pricing should never appear before the reader understands what they're buying an
 
 ---
 
-| [&larr; Previous: Proposal Writing & Estimation](./) | [Next: Scope, Deliverables, Assumptions, Risks &rarr;](scope-deliverables-assumptions-risks) |
+| [&larr; Previous: Proposal Writing & Estimation](./) | [Next: Scope, Deliverables, Assumptions, Risks &rarr;](02-scope-deliverables-assumptions-risks) |
 |:---|---:|
 
 <!-- prevnext:end -->

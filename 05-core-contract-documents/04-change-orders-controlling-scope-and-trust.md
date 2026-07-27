@@ -25,7 +25,7 @@ Framed well to a client, change orders aren't a defensive legal maneuver — the
 
 ---
 
-| [&larr; Previous: SOW – The Most Dangerous Document](sow-the-most-dangerous-document) | [Next: Core Contract Documents &rarr;](core-contract-documents) |
+| [&larr; Previous: SOW – The Most Dangerous Document](03-sow-the-most-dangerous-document) | [Next: Core Contract Documents &rarr;](05-core-contract-documents) |
 |:---|---:|
 
 <!-- prevnext:end -->

@@ -13,13 +13,13 @@ Client-facing travel is still a routine part of pre-sales work — on-site disco
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [Business Trip Planning](business-trip-planning) | 6:02 |
+| 1 | [Business Trip Planning](01-business-trip-planning) | 6:02 |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: Azure Funding Programs Overview](../13-extra-azure-partner-services/azure-funding-programs-overview) | [Next: Business Trip Planning &rarr;](business-trip-planning) |
+| [&larr; Previous: Azure Funding Programs Overview](../13-extra-azure-partner-services/01-azure-funding-programs-overview) | [Next: Business Trip Planning &rarr;](01-business-trip-planning) |
 |:---|---:|
 
 <!-- prevnext:end -->

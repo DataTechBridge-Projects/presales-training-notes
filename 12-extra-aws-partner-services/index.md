@@ -13,13 +13,13 @@ This section covers the AWS partner funding programs you'll draw on most often w
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [AWS Funding Programs Overview](aws-funding-programs-overview) | 6:28 |
+| 1 | [AWS Funding Programs Overview](01-aws-funding-programs-overview) | 6:28 |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: GCP Case Studies with PSF/PSO](../11-extra-google-partner-services/gcp-case-studies-with-psf-pso) | [Next: AWS Funding Programs Overview &rarr;](aws-funding-programs-overview) |
+| [&larr; Previous: GCP Case Studies with PSF/PSO](../11-extra-google-partner-services/03-gcp-case-studies-with-psf-pso) | [Next: AWS Funding Programs Overview &rarr;](01-aws-funding-programs-overview) |
 |:---|---:|
 
 <!-- prevnext:end -->

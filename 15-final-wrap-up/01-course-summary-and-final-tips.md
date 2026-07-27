@@ -21,7 +21,7 @@ None of that becomes real until you use it. The single best thing you can do nex
 
 ---
 
-| [&larr; Previous: Final Section: Wrap-Up](./) | [Next: Next Steps — Mastering APIs, AI & Cloud with Google &rarr;](next-steps-mastering-apis-ai-and-cloud-with-google) |
+| [&larr; Previous: Final Section: Wrap-Up](./) | [Next: Next Steps — Mastering APIs, AI & Cloud with Google &rarr;](02-next-steps-mastering-apis-ai-and-cloud-with-google) |
 |:---|---:|
 
 <!-- prevnext:end -->

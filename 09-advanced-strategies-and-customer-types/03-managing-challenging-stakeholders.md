@@ -23,7 +23,7 @@ When a stakeholder genuinely stalls momentum past a reasonable point, escalate d
 
 ---
 
-| [&larr; Previous: Advanced SOW Language Techniques](advanced-sow-language-techniques) | [Next: Partner-Initiated Pre-Sales (Google, AWS, etc.) &rarr;](partner-initiated-pre-sales-google-aws-etc) |
+| [&larr; Previous: Advanced SOW Language Techniques](02-advanced-sow-language-techniques) | [Next: Partner-Initiated Pre-Sales (Google, AWS, etc.) &rarr;](04-partner-initiated-pre-sales-google-aws-etc) |
 |:---|---:|
 
 <!-- prevnext:end -->

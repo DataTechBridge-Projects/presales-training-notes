@@ -25,7 +25,7 @@ Finally, use the compliance matrix or requirements table the customer provides (
 
 ---
 
-| [&larr; Previous: When Customers Don’t Issue RFx](when-customers-dont-issue-rfx) | [Next: Examples & Common Pitfalls &rarr;](examples-and-common-pitfalls) |
+| [&larr; Previous: When Customers Don’t Issue RFx](02-when-customers-dont-issue-rfx) | [Next: Examples & Common Pitfalls &rarr;](04-examples-and-common-pitfalls) |
 |:---|---:|
 
 <!-- prevnext:end -->

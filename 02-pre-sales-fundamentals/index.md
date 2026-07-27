@@ -13,15 +13,15 @@ This section lays the groundwork the rest of the guide builds on: what pre-sales
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [What is Pre-Sales and Why It Matters](what-is-pre-sales-and-why-it-matters) | 1:36 |
-| 2 | [Pre-Sales Lifecycle and Opportunity Stages](pre-sales-lifecycle-and-opportunity-stages) | 3:47 |
-| 3 | [Roles in Pre-Sales (AE, Architect, Legal, Delivery)](roles-in-pre-sales-ae-architect-legal-delivery) | 2:56 |
+| 1 | [What is Pre-Sales and Why It Matters](01-what-is-pre-sales-and-why-it-matters) | 1:36 |
+| 2 | [Pre-Sales Lifecycle and Opportunity Stages](02-pre-sales-lifecycle-and-opportunity-stages) | 3:47 |
+| 3 | [Roles in Pre-Sales (AE, Architect, Legal, Delivery)](03-roles-in-pre-sales-ae-architect-legal-delivery) | 2:56 |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: Meet Your Instructor](../01-introduction-to-pre-sales/meet-your-instructor) | [Next: What is Pre-Sales and Why It Matters &rarr;](what-is-pre-sales-and-why-it-matters) |
+| [&larr; Previous: Meet Your Instructor](../01-introduction-to-pre-sales/02-meet-your-instructor) | [Next: What is Pre-Sales and Why It Matters &rarr;](01-what-is-pre-sales-and-why-it-matters) |
 |:---|---:|
 
 <!-- prevnext:end -->

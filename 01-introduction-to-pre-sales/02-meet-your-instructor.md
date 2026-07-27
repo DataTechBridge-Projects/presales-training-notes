@@ -22,7 +22,7 @@ This course won't turn every scenario into a script. Instead, it aims to build t
 
 ---
 
-| [&larr; Previous: Welcome to the Course](welcome-to-the-course) | [Next: Pre-Sales Fundamentals &rarr;](../02-pre-sales-fundamentals/) |
+| [&larr; Previous: Welcome to the Course](01-welcome-to-the-course) | [Next: Pre-Sales Fundamentals &rarr;](../02-pre-sales-fundamentals/) |
 |:---|---:|
 
 <!-- prevnext:end -->

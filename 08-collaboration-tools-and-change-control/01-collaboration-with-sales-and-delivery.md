@@ -35,7 +35,7 @@ flowchart LR
 
 ---
 
-| [&larr; Previous: Collaboration, Tools, and Change Control](./) | [Next: Documenting and Tracking Scope Changes &rarr;](documenting-and-tracking-scope-changes) |
+| [&larr; Previous: Collaboration, Tools, and Change Control](./) | [Next: Documenting and Tracking Scope Changes &rarr;](02-documenting-and-tracking-scope-changes) |
 |:---|---:|
 
 <!-- prevnext:end -->

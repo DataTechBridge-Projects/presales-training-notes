@@ -25,7 +25,7 @@ Done well, this is also how single-project engagements become multi-year relatio
 
 ---
 
-| [&larr; Previous: Partner-Initiated Pre-Sales (Google, AWS, etc.)](partner-initiated-pre-sales-google-aws-etc) | [Next: Extra Section: AI for Pre-Sales &rarr;](../10-extra-ai-for-pre-sales/) |
+| [&larr; Previous: Partner-Initiated Pre-Sales (Google, AWS, etc.)](04-partner-initiated-pre-sales-google-aws-etc) | [Next: Extra Section: AI for Pre-Sales &rarr;](../10-extra-ai-for-pre-sales/) |
 |:---|---:|
 
 <!-- prevnext:end -->

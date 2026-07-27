@@ -25,7 +25,7 @@ The trap to avoid is letting templates make you lazy. A reused answer that isn't
 
 ---
 
-| [&larr; Previous: Advanced Strategies & Customer Types](./) | [Next: Advanced SOW Language Techniques &rarr;](advanced-sow-language-techniques) |
+| [&larr; Previous: Advanced Strategies & Customer Types](./) | [Next: Advanced SOW Language Techniques &rarr;](02-advanced-sow-language-techniques) |
 |:---|---:|
 
 <!-- prevnext:end -->

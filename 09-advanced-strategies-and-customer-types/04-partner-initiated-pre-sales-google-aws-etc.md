@@ -25,7 +25,7 @@ This section only sketches the shape of the topic — the specific mechanics of 
 
 ---
 
-| [&larr; Previous: Managing Challenging Stakeholders](managing-challenging-stakeholders) | [Next: Creating Value Beyond the Ask &rarr;](creating-value-beyond-the-ask) |
+| [&larr; Previous: Managing Challenging Stakeholders](03-managing-challenging-stakeholders) | [Next: Creating Value Beyond the Ask &rarr;](05-creating-value-beyond-the-ask) |
 |:---|---:|
 
 <!-- prevnext:end -->

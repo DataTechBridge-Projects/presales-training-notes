@@ -25,7 +25,7 @@ When you position this with a client, frame it as validation, not charity: "Goog
 
 ---
 
-| [&larr; Previous: Extra Section: Google Partner Services](./) | [Next: Overview of PSF vs PSO &rarr;](overview-of-psf-vs-pso) |
+| [&larr; Previous: Extra Section: Google Partner Services](./) | [Next: Overview of PSF vs PSO &rarr;](02-overview-of-psf-vs-pso) |
 |:---|---:|
 
 <!-- prevnext:end -->

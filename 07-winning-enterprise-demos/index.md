@@ -13,13 +13,13 @@ The demo is where every prior stage of the pre-sales lifecycle — discovery, sc
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [How to Conduct a Winning Demo](how-to-conduct-a-winning-demo) | 3:48 |
+| 1 | [How to Conduct a Winning Demo](01-how-to-conduct-a-winning-demo) | 3:48 |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: Proposal Writing & Estimation](../06-proposal-writing-and-estimation/proposal-writing-and-estimation) | [Next: How to Conduct a Winning Demo &rarr;](how-to-conduct-a-winning-demo) |
+| [&larr; Previous: Proposal Writing & Estimation](../06-proposal-writing-and-estimation/05-proposal-writing-and-estimation) | [Next: How to Conduct a Winning Demo &rarr;](01-how-to-conduct-a-winning-demo) |
 |:---|---:|
 
 <!-- prevnext:end -->

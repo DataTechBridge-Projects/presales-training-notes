@@ -13,17 +13,17 @@ This section covers how to turn discovery findings into a proposal that wins: st
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [Proposal Structure & TOC Walkthrough](proposal-structure-and-toc-walkthrough) | 1:54 |
-| 2 | [Scope, Deliverables, Assumptions, Risks](scope-deliverables-assumptions-risks) | 1:44 |
-| 3 | [Estimation Approaches](estimation-approaches) | 2:57 |
-| 4 | [Pricing Models (T&M, Fixed, Retainer, Outcome-Based)](pricing-models-tandm-fixed-retainer-outcome-based) | 1:41 |
-| 5 | [Proposal Writing & Estimation](proposal-writing-and-estimation) | — |
+| 1 | [Proposal Structure & TOC Walkthrough](01-proposal-structure-and-toc-walkthrough) | 1:54 |
+| 2 | [Scope, Deliverables, Assumptions, Risks](02-scope-deliverables-assumptions-risks) | 1:44 |
+| 3 | [Estimation Approaches](03-estimation-approaches) | 2:57 |
+| 4 | [Pricing Models (T&M, Fixed, Retainer, Outcome-Based)](04-pricing-models-tandm-fixed-retainer-outcome-based) | 1:41 |
+| 5 | [Proposal Writing & Estimation](05-proposal-writing-and-estimation) | — |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: Core Contract Documents](../05-core-contract-documents/core-contract-documents) | [Next: Proposal Structure & TOC Walkthrough &rarr;](proposal-structure-and-toc-walkthrough) |
+| [&larr; Previous: Core Contract Documents](../05-core-contract-documents/05-core-contract-documents) | [Next: Proposal Structure & TOC Walkthrough &rarr;](01-proposal-structure-and-toc-walkthrough) |
 |:---|---:|
 
 <!-- prevnext:end -->

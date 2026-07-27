@@ -44,7 +44,7 @@ The difference from the first call: Denise wasn't going to sit through a slow wa
 
 ---
 
-| [&larr; Previous: Discovery Call With a Client Stakeholder](discovery-call-with-a-client-stakeholder) | [Next: Core Contract Documents &rarr;](../05-core-contract-documents/) |
+| [&larr; Previous: Discovery Call With a Client Stakeholder](03-discovery-call-with-a-client-stakeholder) | [Next: Core Contract Documents &rarr;](../05-core-contract-documents/) |
 |:---|---:|
 
 <!-- prevnext:end -->

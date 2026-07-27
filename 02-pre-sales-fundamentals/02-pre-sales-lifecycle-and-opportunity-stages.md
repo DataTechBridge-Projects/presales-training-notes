@@ -41,7 +41,7 @@ Deals rarely move through these stages in a straight line — you'll loop back t
 
 ---
 
-| [&larr; Previous: What is Pre-Sales and Why It Matters](what-is-pre-sales-and-why-it-matters) | [Next: Roles in Pre-Sales (AE, Architect, Legal, Delivery) &rarr;](roles-in-pre-sales-ae-architect-legal-delivery) |
+| [&larr; Previous: What is Pre-Sales and Why It Matters](01-what-is-pre-sales-and-why-it-matters) | [Next: Roles in Pre-Sales (AE, Architect, Legal, Delivery) &rarr;](03-roles-in-pre-sales-ae-architect-legal-delivery) |
 |:---|---:|
 
 <!-- prevnext:end -->

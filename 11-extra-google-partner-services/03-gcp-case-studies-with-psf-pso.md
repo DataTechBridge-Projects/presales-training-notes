@@ -24,7 +24,7 @@ Across all three, the pattern repeats: the funding doesn't replace your proposal
 
 ---
 
-| [&larr; Previous: Overview of PSF vs PSO](overview-of-psf-vs-pso) | [Next: Extra Section: AWS Partner Services &rarr;](../12-extra-aws-partner-services/) |
+| [&larr; Previous: Overview of PSF vs PSO](02-overview-of-psf-vs-pso) | [Next: Extra Section: AWS Partner Services &rarr;](../12-extra-aws-partner-services/) |
 |:---|---:|
 
 <!-- prevnext:end -->

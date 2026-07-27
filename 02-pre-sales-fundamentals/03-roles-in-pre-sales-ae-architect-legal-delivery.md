@@ -27,7 +27,7 @@ These four roles collaborate continuously across the lifecycle stages covered ea
 
 ---
 
-| [&larr; Previous: Pre-Sales Lifecycle and Opportunity Stages](pre-sales-lifecycle-and-opportunity-stages) | [Next: RFx Essentials (RFI / RFQ / RFP) &rarr;](../03-rfx-essentials/) |
+| [&larr; Previous: Pre-Sales Lifecycle and Opportunity Stages](02-pre-sales-lifecycle-and-opportunity-stages) | [Next: RFx Essentials (RFI / RFQ / RFP) &rarr;](../03-rfx-essentials/) |
 |:---|---:|
 
 <!-- prevnext:end -->

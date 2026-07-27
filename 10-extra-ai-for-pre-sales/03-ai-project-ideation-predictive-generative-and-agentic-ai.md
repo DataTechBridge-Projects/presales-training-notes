@@ -63,7 +63,7 @@ This same three-way lens carries forward into how you think about AI's business 
 
 ---
 
-| [&larr; Previous: From RFP to Clickable Prototype using AI](from-rfp-to-clickable-prototype-using-ai) | [Next: AI Terms Explained for Presales: LLMs, GenAI, Transformers & Agents &rarr;](ai-terms-explained-for-presales-llms-genai-transformers-and-agents) |
+| [&larr; Previous: From RFP to Clickable Prototype using AI](02-from-rfp-to-clickable-prototype-using-ai) | [Next: AI Terms Explained for Presales: LLMs, GenAI, Transformers & Agents &rarr;](04-ai-terms-explained-for-presales-llms-genai-transformers-and-agents) |
 |:---|---:|
 
 <!-- prevnext:end -->

@@ -28,7 +28,7 @@ In practice, many proposals blend models — a fixed-price implementation phase 
 
 ---
 
-| [&larr; Previous: Estimation Approaches](estimation-approaches) | [Next: Proposal Writing & Estimation &rarr;](proposal-writing-and-estimation) |
+| [&larr; Previous: Estimation Approaches](03-estimation-approaches) | [Next: Proposal Writing & Estimation &rarr;](05-proposal-writing-and-estimation) |
 |:---|---:|
 
 <!-- prevnext:end -->

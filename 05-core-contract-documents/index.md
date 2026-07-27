@@ -13,17 +13,17 @@ This section covers the four documents that turn a promising deal into an execut
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [NDA – Why and When](nda-why-and-when) | 1:07 |
-| 2 | [MSA – Key Clauses & Real Examples](msa-key-clauses-and-real-examples) | 1:58 |
-| 3 | [SOW – The Most Dangerous Document](sow-the-most-dangerous-document) | 1:45 |
-| 4 | [Change Orders – Controlling Scope & Trust](change-orders-controlling-scope-and-trust) | 1:51 |
-| 5 | [Core Contract Documents](core-contract-documents) | — |
+| 1 | [NDA – Why and When](01-nda-why-and-when) | 1:07 |
+| 2 | [MSA – Key Clauses & Real Examples](02-msa-key-clauses-and-real-examples) | 1:58 |
+| 3 | [SOW – The Most Dangerous Document](03-sow-the-most-dangerous-document) | 1:45 |
+| 4 | [Change Orders – Controlling Scope & Trust](04-change-orders-controlling-scope-and-trust) | 1:51 |
+| 5 | [Core Contract Documents](05-core-contract-documents) | — |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: Role Play 2: Difficult Stakeholder / Executive Pushback](../04-discovery-and-requirements-gathering/role-play-2-difficult-stakeholder-executive-pushback) | [Next: NDA – Why and When &rarr;](nda-why-and-when) |
+| [&larr; Previous: Role Play 2: Difficult Stakeholder / Executive Pushback](../04-discovery-and-requirements-gathering/04-role-play-2-difficult-stakeholder-executive-pushback) | [Next: NDA – Why and When &rarr;](01-nda-why-and-when) |
 |:---|---:|
 
 <!-- prevnext:end -->

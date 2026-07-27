@@ -95,7 +95,7 @@ D. Pricing change orders based on the original SOW's rate card
 
 ---
 
-| [&larr; Previous: Change Orders – Controlling Scope & Trust](change-orders-controlling-scope-and-trust) | [Next: Proposal Writing & Estimation &rarr;](../06-proposal-writing-and-estimation/) |
+| [&larr; Previous: Change Orders – Controlling Scope & Trust](04-change-orders-controlling-scope-and-trust) | [Next: Proposal Writing & Estimation &rarr;](../06-proposal-writing-and-estimation/) |
 |:---|---:|
 
 <!-- prevnext:end -->

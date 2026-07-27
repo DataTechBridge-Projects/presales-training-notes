@@ -13,14 +13,14 @@ This closing section pulls the entire field guide together — from RFx qualific
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [Course Summary & Final Tips](course-summary-and-final-tips) | 1:55 |
-| 2 | [Next Steps — Mastering APIs, AI & Cloud with Google](next-steps-mastering-apis-ai-and-cloud-with-google) | 1:34 |
+| 1 | [Course Summary & Final Tips](01-course-summary-and-final-tips) | 1:55 |
+| 2 | [Next Steps — Mastering APIs, AI & Cloud with Google](02-next-steps-mastering-apis-ai-and-cloud-with-google) | 1:34 |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: Business Trip Planning](../14-extra-business-trips/business-trip-planning) | [Next: Course Summary & Final Tips &rarr;](course-summary-and-final-tips) |
+| [&larr; Previous: Business Trip Planning](../14-extra-business-trips/01-business-trip-planning) | [Next: Course Summary & Final Tips &rarr;](01-course-summary-and-final-tips) |
 |:---|---:|
 
 <!-- prevnext:end -->

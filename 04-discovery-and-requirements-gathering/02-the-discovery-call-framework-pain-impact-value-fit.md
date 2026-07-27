@@ -36,7 +36,7 @@ Run this framework as genuine curiosity, not an interrogation script — the two
 
 ---
 
-| [&larr; Previous: Discovery in Pre-Sales: Why It Matters](discovery-in-pre-sales-why-it-matters) | [Next: Discovery Call With a Client Stakeholder &rarr;](discovery-call-with-a-client-stakeholder) |
+| [&larr; Previous: Discovery in Pre-Sales: Why It Matters](01-discovery-in-pre-sales-why-it-matters) | [Next: Discovery Call With a Client Stakeholder &rarr;](03-discovery-call-with-a-client-stakeholder) |
 |:---|---:|
 
 <!-- prevnext:end -->

@@ -85,7 +85,7 @@ D. The engagement must last less than one month
 
 ---
 
-| [&larr; Previous: Pricing Models (T&M, Fixed, Retainer, Outcome-Based)](pricing-models-tandm-fixed-retainer-outcome-based) | [Next: Winning Enterprise Demos &rarr;](../07-winning-enterprise-demos/) |
+| [&larr; Previous: Pricing Models (T&M, Fixed, Retainer, Outcome-Based)](04-pricing-models-tandm-fixed-retainer-outcome-based) | [Next: Winning Enterprise Demos &rarr;](../07-winning-enterprise-demos/) |
 |:---|---:|
 
 <!-- prevnext:end -->

@@ -27,7 +27,7 @@ Finally, build a standard **change-trigger clause** into every SOW — a sentenc
 
 ---
 
-| [&larr; Previous: Templates & Pre-Sales Toolkit](templates-and-pre-sales-toolkit) | [Next: Managing Challenging Stakeholders &rarr;](managing-challenging-stakeholders) |
+| [&larr; Previous: Templates & Pre-Sales Toolkit](01-templates-and-pre-sales-toolkit) | [Next: Managing Challenging Stakeholders &rarr;](03-managing-challenging-stakeholders) |
 |:---|---:|
 
 <!-- prevnext:end -->

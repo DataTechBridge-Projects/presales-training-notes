@@ -13,17 +13,17 @@ This section covers the formal and informal ways deals actually enter your pipel
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [Understanding RFI, RFQ, RFP](understanding-rfi-rfq-rfp) | 2:57 |
-| 2 | [When Customers Don’t Issue RFx](when-customers-dont-issue-rfx) | 2:39 |
-| 3 | [How to Read and Respond](how-to-read-and-respond) | 3:05 |
-| 4 | [Examples & Common Pitfalls](examples-and-common-pitfalls) | 3:08 |
-| 5 | [RFx Essentials — Test Your Knowledge](rfx-essentials-test-your-knowledge) | — |
+| 1 | [Understanding RFI, RFQ, RFP](01-understanding-rfi-rfq-rfp) | 2:57 |
+| 2 | [When Customers Don’t Issue RFx](02-when-customers-dont-issue-rfx) | 2:39 |
+| 3 | [How to Read and Respond](03-how-to-read-and-respond) | 3:05 |
+| 4 | [Examples & Common Pitfalls](04-examples-and-common-pitfalls) | 3:08 |
+| 5 | [RFx Essentials — Test Your Knowledge](05-rfx-essentials-test-your-knowledge) | — |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: Roles in Pre-Sales (AE, Architect, Legal, Delivery)](../02-pre-sales-fundamentals/roles-in-pre-sales-ae-architect-legal-delivery) | [Next: Understanding RFI, RFQ, RFP &rarr;](understanding-rfi-rfq-rfp) |
+| [&larr; Previous: Roles in Pre-Sales (AE, Architect, Legal, Delivery)](../02-pre-sales-fundamentals/03-roles-in-pre-sales-ae-architect-legal-delivery) | [Next: Understanding RFI, RFQ, RFP &rarr;](01-understanding-rfi-rfq-rfp) |
 |:---|---:|
 
 <!-- prevnext:end -->

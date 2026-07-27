@@ -13,17 +13,17 @@ This section moves past the mechanics of RFx, discovery, and contracts into the 
 
 | # | Lecture | Duration |
 |---|---------|----------|
-| 1 | [Templates & Pre-Sales Toolkit](templates-and-pre-sales-toolkit) | 2:44 |
-| 2 | [Advanced SOW Language Techniques](advanced-sow-language-techniques) | 2:57 |
-| 3 | [Managing Challenging Stakeholders](managing-challenging-stakeholders) | 2:35 |
-| 4 | [Partner-Initiated Pre-Sales (Google, AWS, etc.)](partner-initiated-pre-sales-google-aws-etc) | 2:36 |
-| 5 | [Creating Value Beyond the Ask](creating-value-beyond-the-ask) | 2:47 |
+| 1 | [Templates & Pre-Sales Toolkit](01-templates-and-pre-sales-toolkit) | 2:44 |
+| 2 | [Advanced SOW Language Techniques](02-advanced-sow-language-techniques) | 2:57 |
+| 3 | [Managing Challenging Stakeholders](03-managing-challenging-stakeholders) | 2:35 |
+| 4 | [Partner-Initiated Pre-Sales (Google, AWS, etc.)](04-partner-initiated-pre-sales-google-aws-etc) | 2:36 |
+| 5 | [Creating Value Beyond the Ask](05-creating-value-beyond-the-ask) | 2:47 |
 
 <!-- prevnext:start -->
 
 ---
 
-| [&larr; Previous: Documenting and Tracking Scope Changes](../08-collaboration-tools-and-change-control/documenting-and-tracking-scope-changes) | [Next: Templates & Pre-Sales Toolkit &rarr;](templates-and-pre-sales-toolkit) |
+| [&larr; Previous: Documenting and Tracking Scope Changes](../08-collaboration-tools-and-change-control/02-documenting-and-tracking-scope-changes) | [Next: Templates & Pre-Sales Toolkit &rarr;](01-templates-and-pre-sales-toolkit) |
 |:---|---:|
 
 <!-- prevnext:end -->

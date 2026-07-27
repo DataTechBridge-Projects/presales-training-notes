@@ -35,7 +35,7 @@ As a pre-sales professional, you rarely draft the MSA yourself, but you need to 
 
 ---
 
-| [&larr; Previous: NDA – Why and When](nda-why-and-when) | [Next: SOW – The Most Dangerous Document &rarr;](sow-the-most-dangerous-document) |
+| [&larr; Previous: NDA – Why and When](01-nda-why-and-when) | [Next: SOW – The Most Dangerous Document &rarr;](03-sow-the-most-dangerous-document) |
 |:---|---:|
 
 <!-- prevnext:end -->

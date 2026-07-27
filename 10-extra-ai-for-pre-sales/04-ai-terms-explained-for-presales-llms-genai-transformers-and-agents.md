@@ -52,7 +52,7 @@ Finally, a **hallucination** is when a model produces a fluent, confident-soundi
 
 ---
 
-| [&larr; Previous: AI Project Ideation: Predictive, Generative, and Agentic AI](ai-project-ideation-predictive-generative-and-agentic-ai) | [Next: Enterprise LLM Selection: Frontier vs Open-Source Models &rarr;](enterprise-llm-selection-frontier-vs-open-source-models) |
+| [&larr; Previous: AI Project Ideation: Predictive, Generative, and Agentic AI](03-ai-project-ideation-predictive-generative-and-agentic-ai) | [Next: Enterprise LLM Selection: Frontier vs Open-Source Models &rarr;](05-enterprise-llm-selection-frontier-vs-open-source-models) |
 |:---|---:|
 
 <!-- prevnext:end -->

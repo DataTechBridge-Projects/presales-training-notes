@@ -25,7 +25,7 @@ Knowing when an NDA is genuinely needed — versus when it's being used to stall
 
 ---
 
-| [&larr; Previous: Core Contract Documents](./) | [Next: MSA – Key Clauses & Real Examples &rarr;](msa-key-clauses-and-real-examples) |
+| [&larr; Previous: Core Contract Documents](./) | [Next: MSA – Key Clauses & Real Examples &rarr;](02-msa-key-clauses-and-real-examples) |
 |:---|---:|
 
 <!-- prevnext:end -->
