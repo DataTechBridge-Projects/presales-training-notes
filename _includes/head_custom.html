@@ -1,0 +1,76 @@
+<style>
+  #tts-listen-btn {
+    position: fixed;
+    right: 1.25rem;
+    bottom: 1.25rem;
+    z-index: 999;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.65rem 1.1rem;
+    border: none;
+    border-radius: 999px;
+    background: #7253ed;
+    color: #fff;
+    font-size: 0.95rem;
+    font-family: inherit;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  }
+  #tts-listen-btn:hover {
+    background: #5f3fd6;
+  }
+  #tts-listen-btn[data-state="speaking"] {
+    background: #c0392b;
+  }
+  #tts-listen-btn[data-state="speaking"]:hover {
+    background: #a8321f;
+  }
+</style>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (!("speechSynthesis" in window)) return;
+
+    var content = document.querySelector("#main-content, main, .main-content");
+    if (!content) return;
+
+    var btn = document.createElement("button");
+    btn.id = "tts-listen-btn";
+    btn.type = "button";
+    btn.setAttribute("data-state", "idle");
+    btn.setAttribute("aria-label", "Listen to this page");
+    btn.textContent = "🔊 Listen";
+    document.body.appendChild(btn);
+
+    function setIdle() {
+      btn.setAttribute("data-state", "idle");
+      btn.textContent = "🔊 Listen";
+    }
+
+    btn.addEventListener("click", function () {
+      if (btn.getAttribute("data-state") === "speaking") {
+        window.speechSynthesis.cancel();
+        setIdle();
+        return;
+      }
+
+      window.speechSynthesis.cancel();
+      var text = content.innerText || content.textContent || "";
+      text = text.replace(/\s+/g, " ").trim();
+      if (!text) return;
+
+      var utterance = new SpeechSynthesisUtterance(text);
+      utterance.rate = 1.0;
+      utterance.onend = setIdle;
+      utterance.onerror = setIdle;
+
+      btn.setAttribute("data-state", "speaking");
+      btn.textContent = "⏹ Stop";
+      window.speechSynthesis.speak(utterance);
+    });
+
+    window.addEventListener("pagehide", function () {
+      window.speechSynthesis.cancel();
+    });
+  });
+</script>
