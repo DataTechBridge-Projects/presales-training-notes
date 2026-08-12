@@ -43,6 +43,12 @@ genuinely checked, not just skimmed.
 - Has budget actually been allocated, or is this still a business case you're building
   internally?
 
+**Artifacts to produce:**
+- Qualification scorecard — budget, authority, timeline, and fit, each with a stated reason, not
+  just a checkmark
+- RFx intake log entry — request type (RFI/RFQ/RFP/informal), source, due date, and the go/no-go
+  decision
+
 ## While It's Open
 
 ### Discovery
@@ -63,6 +69,10 @@ genuinely checked, not just skimmed.
 - What have you already tried, and why didn't it work?
 - Who else is affected by this problem that I haven't talked to yet?
 
+**Artifacts to produce:**
+- Discovery notes — Pain → Impact → Value → Fit captured per stakeholder, not one blended summary
+- Stakeholder map — names, roles, and who actually influences the decision
+
 ### Solutioning & Scoping
 
 - [ ] Written down what's explicitly **in scope** and what's explicitly **out**
@@ -77,6 +87,10 @@ genuinely checked, not just skimmed.
 **Ask the client:**
 - Which of these scope boundaries would you push back on, and why?
 - Are there systems, data sources, or stakeholders we haven't accounted for yet?
+
+**Artifacts to produce:**
+- Scope document — explicit in-scope / out-of-scope lists and every load-bearing assumption
+- Solution outline — the technical approach in enough detail for an architect to sanity-check it
 
 ### Estimation & Pricing
 
@@ -94,6 +108,11 @@ genuinely checked, not just skimmed.
   outcome-based?
 - Is there a budget ceiling I should know about before I finalize this?
 
+**Artifacts to produce:**
+- Estimate sheet — effort broken out by workstream or role, tied back to the scope document
+- Pricing summary — commercial model, final numbers, and a margin check before anything goes
+  external
+
 ### Proposal / RFx Response
 
 - [ ] Proposal reflects the actual discovery and scoping output — not a template with the client's
@@ -110,6 +129,11 @@ genuinely checked, not just skimmed.
 - How will this be evaluated, and by whom?
 - What would make this a clear "yes" versus "let's keep shopping"?
 
+**Artifacts to produce:**
+- Proposal / RFx response document — the client-facing package (scope, approach, pricing, value)
+- Competitive positioning notes — internal-only, capturing where you're strong or exposed against
+  likely alternatives
+
 ### Demo & Evaluation
 
 - [ ] Demo scenario matches the client's real workflow, not a generic canned script
@@ -123,6 +147,12 @@ genuinely checked, not just skimmed.
 **Ask the client:**
 - What does success look like in this demo, from your side?
 - Who from your team needs to see this, and are they going to be in the room?
+
+**Artifacts to produce:**
+- Demo script or storyboard — scenario, sequence, and talking points tied to the client's real
+  workflow
+- Evaluation feedback sheet — a place to capture what the client said and asked, right after the
+  session, not from memory a week later
 
 ### Negotiation & Contracting
 
@@ -138,6 +168,10 @@ genuinely checked, not just skimmed.
 **Ask the client:**
 - Is there anything in these terms your legal or procurement team is likely to flag?
 - What's your realistic signing timeline, and what could still slow it down?
+
+**Artifacts to produce:**
+- Signed NDA, MSA, and SOW — the actual executed documents, not just drafts in an email thread
+- Redline / negotiation tracker — what changed from the original terms, and who agreed to it
 
 ## After: Closure & Handoff
 
@@ -157,6 +191,33 @@ genuinely checked, not just skimmed.
 - Who's the right point of contact on your side going into delivery?
 - Are there any commitments made during the sales process that should be captured explicitly
   before delivery starts?
+
+**Artifacts to produce:**
+- Handoff / transition document — scope, assumptions, client history, and any verbal commitments,
+  written down for delivery
+- Retro notes — what went well and what you'd change, captured while the deal is still fresh
+
+## What Separates Bad, Good, and Best
+
+Checklists tell you an item got touched — they don't tell you whether it got touched well. Use
+this table to calibrate the bar you're actually holding yourself to at each stage, not just
+whether the box got ticked.
+
+| Stage | Bad | Good | Best |
+|---|---|---|---|
+| Qualification & Intake | Chase every inbound request with no go/no-go call | Qualify against budget, authority, and timeline before committing effort | Qualify **and** document the reasoning, so the decision is defensible and gets revisited if conditions change |
+| Discovery | Collect the requirements the client dictates and move on | Uncover the pain and impact behind those requirements | Connect pain to value the stakeholder can defend internally, validated across more than one stakeholder |
+| Solutioning & Scoping | Leave scope and assumptions implicit, "we'll figure it out" | Write down what's explicitly in and out of scope | Have an architect or delivery lead pressure-test the scope and flag every load-bearing assumption as a named risk |
+| Estimation & Pricing | Guess a number that "feels right" and send it | Tie the estimate to the agreed scope and get it peer-reviewed | Build in risk contingency and choose the commercial model deliberately, based on how this client actually buys |
+| Proposal / RFx Response | Reuse a template with the client's name swapped in | Reflect the actual discovery and scoping output in the proposal | Anticipate competitor angles and pre-empt the client's likely objections before they're raised |
+| Demo & Evaluation | Run a generic, canned demo | Map the demo to the client's real workflow | Rehearse against objections, have a fallback for when something breaks live, and capture feedback immediately after |
+| Negotiation & Contracting | Let verbal commitments stand in for written terms | Make sure NDA/MSA/SOW terms match what was scoped and priced | Track every redline against the original terms and get all commitments in writing before signature |
+| Closure & Handoff | Hand delivery the signed contract and nothing else | Hand delivery the scope, assumptions, and client context | Confirm a named handoff owner understands it, and capture a retro while the deal is still fresh |
+
+{: .important }
+> "Good" is the minimum bar for every stage on every deal — treat it as non-negotiable, not
+> aspirational. Reserve the extra effort "best" takes for opportunities where the size, strategic
+> value, or risk actually justifies it.
 
 <!-- prevnext:start -->
 
