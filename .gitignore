@@ -5,6 +5,7 @@ CONTENT_STYLE.md
 CLAUDE.md
 course.html
 data/
+templates/
 
 # Jekyll / Ruby
 _site/

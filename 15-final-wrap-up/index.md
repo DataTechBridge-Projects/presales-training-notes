@@ -15,6 +15,7 @@ This closing section pulls the entire field guide together — from RFx qualific
 |---|---------|----------|
 | 1 | [Course Summary & Final Tips](01-course-summary-and-final-tips) | 1:55 |
 | 2 | [Next Steps — Mastering APIs, AI & Cloud with Google](02-next-steps-mastering-apis-ai-and-cloud-with-google) | 1:34 |
+| 3 | [Opportunity Lifecycle Checklist](03-opportunity-lifecycle-checklist) | — |
 
 <!-- prevnext:start -->
 
